@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Ejercicios Tema 4</title>
-        <link rel="stylesheet" href="webroot/css/estilos.css">
+        <link rel="stylesheet" href="./webroot/css/estilos.css">
     </head>
 
     <body>
@@ -19,10 +19,8 @@
                     <tr>
                         <th>TIPO SCRIPT</th>
                         <th>CÓDIGO</th>
-
                     </tr>
                 </thead>
-
                 <tbody>
                     <tr>                       
                         <td>SCRIP CREACIÓN</td>
