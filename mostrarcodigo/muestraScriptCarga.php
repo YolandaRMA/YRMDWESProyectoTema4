@@ -2,16 +2,16 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>01Muestra</title>
+        <title>carga</title>
         <link rel="stylesheet" href="../webroot/css/estilos.css">
     </head>
     <body>
-        <header>Inicializar variables de los distintos tipos de datos básicos(string, int, float, bool) 
-            y mostrar los datos por pantalla (echo, print, printf, print_r,var_dump).
+        <header>
+            <<h1>Carga inicial de datos</h1>
         </header>
         <main>
             <?php
-            highlight_file("../codigoPHP/ejercicio01.php");
+            highlight_file("../scriptDB/CargaInicialDBYRMProyectoTema4.sql");
             ?>
         </main>
         <footer>

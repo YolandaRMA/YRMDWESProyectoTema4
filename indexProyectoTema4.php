@@ -4,8 +4,14 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Ejercicios Tema 3</title>
+        <title>Ejercicios Tema 4</title>
         <link rel="stylesheet" href="webroot/css/estilos.css">
+        <style>
+            table:first-of-type {
+                margin: 0 auto;
+                width: fit-content;
+            }
+        </style>
     </head>
 
     <body>
@@ -18,26 +24,28 @@
             <table>
                 <thead>
                     <tr>
-                        <th>Scripts de base de datos</th>
+                        <th>Scripts</th>
                         <th>Ver código</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Creación de tablas</td>
+                        <td>Creación</td>
                         <td><a href="./mostrarCodigo/muestraScriptCrear.php">Código</a></td>
                     </tr>
                     <tr>
-                        <td>Carga inicial de datos</td>
+                        <td>Carga inicial</td>
                         <td><a href="./mostrarCodigo/muestraScriptCarga.php">Código</a></td>
                     </tr>
                     <tr>
-                        <td>Eliminación de tablas</td>
+                        <td>Eliminación</td>
                         <td><a href="./mostrarCodigo/muestraScriptDelete.php">Código</a></td>
                     </tr>
                 </tbody>
             </table>
-
+            <br>
+            <br>
+            <br>
             <table>
                 <thead>
                     <tr>
