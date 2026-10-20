@@ -7,7 +7,7 @@
     </head>
     <body>
         <header>
-            <<h1>Carga inicial de datos</h1>
+            <h1>Carga inicial de datos</h1>
         </header>
         <main>
             <?php

@@ -31,15 +31,15 @@
                 <tbody>
                     <tr>
                         <td>Creación</td>
-                        <td><a href="./mostrarCodigo/muestraScriptCrear.php">Código</a></td>
+                        <td><a href="./mostrarcodigo/muestraScriptCrea.php">Código</a></td>
                     </tr>
                     <tr>
                         <td>Carga inicial</td>
-                        <td><a href="./mostrarCodigo/muestraScriptCarga.php">Código</a></td>
+                        <td><a href="./mostrarcodigo/muestraScriptCarga.php">Código</a></td>
                     </tr>
                     <tr>
                         <td>Eliminación</td>
-                        <td><a href="./mostrarCodigo/muestraScriptDelete.php">Código</a></td>
+                        <td><a href="./mostrarcodigo/muestraScriptDelete.php">Código</a></td>
                     </tr>
                 </tbody>
             </table>

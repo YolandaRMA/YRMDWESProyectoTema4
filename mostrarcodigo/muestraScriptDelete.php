@@ -7,7 +7,7 @@
     </head>
     <body>
        <header>
-            <<h1>Borrado de base de datos y usuario. </h1>
+            <h1>Borrado de base de datos y usuario. </h1>
         </header>
         <main>
             <?php
