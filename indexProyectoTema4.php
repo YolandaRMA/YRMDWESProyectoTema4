@@ -31,15 +31,23 @@
                 <tbody>
                     <tr>
                         <td>Creación</td>
-                        <td><a href="./mostrarcodigo/muestraScriptCrea.php">Código</a></td>
+                        <td><a href="/mostrarcodigo/muestraScriptCrea.php">Código</a></td>
                     </tr>
                     <tr>
                         <td>Carga inicial</td>
-                        <td><a href="./mostrarcodigo/muestraScriptCarga.php">Código</a></td>
+                        <td><a href="/mostrarcodigo/muestraScriptCarga.php">Código</a></td>
                     </tr>
                     <tr>
                         <td>Eliminación</td>
-                        <td><a href="./mostrarcodigo/muestraScriptDelete.php">Código</a></td>
+                        <td><a href="/mostrarcodigo/muestraScriptDelete.php">Código</a></td>
+                    </tr>
+                    <tr>
+                        <td>Config home</td>
+                        <td><a href="/mostrarcodigo/muestraConfigHome.php">Código</a></td>
+                    </tr>
+                    <tr>
+                        <td>config</td>
+                        <td><a href="/mostrarcodigo/muestraConfig.php">Código</a></td>
                     </tr>
                 </tbody>
             </table>

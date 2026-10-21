@@ -10,12 +10,17 @@
             <h1>Creacion de la base de datos</h1>
         </header>
         <main>
-            <?php
-            highlight_file("../scriptDB/CreaDBYRMProyectoTema4.sql");
-            ?>
+            $archivo = '../scriptDB/CreaDBYRMProyectoTema4.sql';
+
+            if ($archivo && file_exists($archivo)) {               
+                
+                highlight_file($archivo);
+            } else {
+                echo "<h3>El archivo no existe.</h3>";              
+            }
         </main>
         <footer>
-            <p><a href="../../YRMDWESProyectoDWES/indexProyectoDWES.php">Home</a></p>
+            <p><a href="../indexProyectoTema4.php">Home</a></p>
             <div class="footer-text">
                 <p>2026-27 IES Los Sauces. &copy; Todos los derechos reservados.<a href="../index.html">Yolanda Rodríguez Moreno</a></p>
                 <time datetime="2026-09-30">Última actualización: 30 de Septiembre de 2026</time>
