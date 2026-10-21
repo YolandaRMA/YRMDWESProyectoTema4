@@ -6,11 +6,11 @@
         <link rel="stylesheet" href="../webroot/css/estilos.css">
     </head>
     <body>
-        <header>Hola mundo y phpinfo.</header>
+        <header>Conexión y gestión de errores.</header>
 
         <main>
             <?php
-            highlight_file("../codigoPHP/ejercicio00.php");
+            highlight_file("../codigoPHP/ejercicio01PDO.php");
             ?>
         </main>
         <footer>

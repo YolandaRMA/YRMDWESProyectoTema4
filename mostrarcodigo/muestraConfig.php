@@ -7,7 +7,7 @@
     </head>
     <body>
         <header>
-            <h1>Creacion de la base de datos</h1>
+            <h1>Config para el entorno de clase</h1>
         </header>
         <main>
             <?php

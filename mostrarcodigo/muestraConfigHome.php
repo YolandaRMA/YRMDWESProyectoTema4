@@ -7,11 +7,11 @@
     </head>
     <body>
         <header>
-            <h1>Creacion de la base de datos</h1>
+            <h1>Config home</h1>
         </header>
         <main>
             <?php
-            $archivo = '../config/configDB00_home.php';
+            $archivo = "../config/configDB00_home.php";
 
             if ($archivo && file_exists($archivo)) {               
                 
@@ -19,6 +19,7 @@
             } else {
                 echo "<h3>El archivo no existe.</h3>";              
             }
+//             highlight_file("../config/configDB00_home.php");
             ?>
         </main>
         <footer>

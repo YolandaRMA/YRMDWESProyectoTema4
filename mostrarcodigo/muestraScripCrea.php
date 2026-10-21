@@ -10,7 +10,8 @@
             <h1>Creacion de la base de datos</h1>
         </header>
         <main>
-            $archivo = '../scriptDB/CreaDBYRMProyectoTema4.sql';
+            <?php
+            $archivo =  '../scriptDB/CargaDBYRMProyectoTema4.sql';
 
             if ($archivo && file_exists($archivo)) {               
                 
@@ -18,6 +19,7 @@
             } else {
                 echo "<h3>El archivo no existe.</h3>";              
             }
+            ?>
         </main>
         <footer>
             <p><a href="../indexProyectoTema4.php">Home</a></p>
