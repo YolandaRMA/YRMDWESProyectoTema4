@@ -10,8 +10,9 @@
         <main>
             <?php
             // Se incluyen las constantes con los datos de conexión.
-            require_once '../config/configDB00_home.php';
-//            require_once '../config/configDB00.php';
+            //require_once '../config/configDB00_home.php';
+            require_once '../config/configDB00.php';
+          
             // Se guarda en un array la lista de atributos que se van a consultar.
             $atributos = [
                 "AUTOCOMMIT", "ERRMODE", "CASE", "CLIENT_VERSION",
