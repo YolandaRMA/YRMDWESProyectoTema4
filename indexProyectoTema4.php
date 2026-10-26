@@ -85,74 +85,74 @@
                     <tr>
                         <td>2</td>
                         <td>Mostrar departamentos y contar registros.</td>
-                        <td><a href="">Ejecutar</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>
                         <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>3</td>
                         <td>Añadir departamentos con validación.</td>
-                        <td><a href="">Ejecutar</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>
                         <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>4</td>
                         <td>Buscar departamentos por descripción.</td>
-                        <td><a href="">Ejecutar</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>
                         <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>5</td>
                         <td>Insertar tres departamentos con transacción.</td>
-                        <td><a href="">Ejecutar</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>
                         <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>6</td>
                         <td>Cargar departamentos desde un array con consulta preparada.</td>
-                        <td><a href="">Ejecutar</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>
                         <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>7</td>
                         <td>Importar departamentos desde XML.</td>
-                        <td><a href="">Ejecutar</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>
                         <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>8</td>
                         <td>Exportar departamentos a XML.</td>
-                        <td><a href="">Ejecutar</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>
                         <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>9</td>
                         <td>Mantenimiento de departamentos con PHPDoc y Git.</td>
-                        <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
-                        <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
+                        <td><a href="">Código</a></td>-->
+<!--                        <td><a href="">Ejecutar</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>10</td>
                         <td>Mantenimiento de departamentos con POO y arquitectura multicapa.</td>
-                        <td><a href="">Ejecutar</a></td>
+<!--                        <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>
                         <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="">Código</a></td>-->
                     </tr>
                 </tbody>
             </table>
