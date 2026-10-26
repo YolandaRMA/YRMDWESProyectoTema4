@@ -10,7 +10,7 @@
 
         <main>
             <?php
-            highlight_file("../codigoPHP/ejercicio01PDO.php");
+            highlight_file("../codigoPHP/ejercicio02PDO.php");
             ?>
         </main>
         <footer>

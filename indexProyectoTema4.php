@@ -85,8 +85,8 @@
                     <tr>
                         <td>2</td>
                         <td>Mostrar departamentos y contar registros.</td>
-                        <td><a href="./codigoPHP/ejercicio01PDO.php">Ejecutar</a></td>
-                        <td><a href="./mostrarcodigo/muestraEjercicio01PDO.php">Código</a></td>
+                        <td><a href="./codigoPHP/ejercicio02PDO.php">Ejecutar</a></td>
+                        <td><a href="./mostrarcodigo/muestraEjercicio02PDO.php">Código</a></td>
                      <!--    <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>-->
                     </tr>
