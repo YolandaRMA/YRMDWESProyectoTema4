@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>01Muestra</title>
+        <title>02Muestra</title>
         <link rel="stylesheet" href="../webroot/css/estilos.css">
     </head>
     <body>
@@ -10,7 +10,7 @@
 
         <main>
             <?php
-            highlight_file("../codigoPHP/ejercicio01PDO.php");
+            highlight_file("../codigoPHP/ejercicio02PDO.php");
             ?>
         </main>
         <footer>
