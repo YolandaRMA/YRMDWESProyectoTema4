@@ -11,13 +11,13 @@
         </header>
         <main>
             <?php
-            $archivo =  '../scriptDB/CreaDBYRMProyectoTema4.sql';
+            $archivo = '../scriptDB/CreaDBYRMProyectoTema4.sql';
 
-            if ($archivo && file_exists($archivo)) {               
-                
+            if ($archivo && file_exists($archivo)) {
+
                 highlight_file($archivo);
             } else {
-                echo "<h3>El archivo no existe.</h3>";              
+                echo "<h3>El archivo no existe.</h3>";
             }
             ?>
         </main>
