@@ -11,7 +11,7 @@
         </header>
         <main>
             <?php
-            $archivo = '../scriptDB/BorraDBYRMProyectoTema4.sql';
+            $archivo = '../scriptDB/BorraDBYRMDWESProyectoTema4.sql';
 
             if ($archivo && file_exists($archivo)) {               
                 
