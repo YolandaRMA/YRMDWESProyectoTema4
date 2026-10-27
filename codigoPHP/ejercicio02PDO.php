@@ -10,7 +10,8 @@
         <main>
             <?php
             // Se incluyen las constantes con los datos de conexión.
-            require_once '../config/configDB00_home.php';
+            // require_once '../config/configDB00_home.php';
+            require_once '../config/configDB00.php';
 
             echo "<h3>Consulta de departamentos</h3>";
 

@@ -12,7 +12,8 @@
             <?php
             echo "1. Inicio del ejercicio<br>";
             // Se carga el archivo con los datos de conexión.
-            require_once '../config/configDB00_home.php';
+           // require_once '../config/configDB00_home.php';
+            require_once '../config/configDB00.php';
             echo "2. Configuración cargada<br>";
 
             try {
