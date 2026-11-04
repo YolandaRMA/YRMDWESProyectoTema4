@@ -60,7 +60,7 @@
 
                 // Se configura PDO para mostrar las excepciones cuando se produzca un error.
                 $conexionPDO->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
+                
                 // Se crea un array con los tres departamentos que se van a insertar.
                 $aDepartamentosNuevos = [
                     [
