@@ -93,32 +93,32 @@
                     <tr>
                         <td>3</td>
                         <td>Añadir departamentos con validación.</td>
-<!--                        <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="./codigoPHP/ejercicio03PDO.php">Ejecutar</a></td>
+                        <td><a href="./mostrarcodigo/muestraEjercicio03PDO.php">Código</a></td><!--
                         <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>4</td>
                         <td>Buscar departamentos por descripción.</td>
-<!--                        <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="./codigoPHP/ejercicio04PDO.php">Ejecutar</a></td>
+                        <td><a href="./mostrarcodigo/muestraEjercicio04PDO.php">Código</a></td><!--
                         <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>5</td>
                         <td>Insertar tres departamentos con transacción.</td>
-<!--                        <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="./codigoPHP/ejercicio05PDO.php">Ejecutar</a></td>
+                        <td><a href="./mostrarcodigo/muestraEjercicio05PDO.php">Código</a></td><!--
                         <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>-->
                     </tr>
                     <tr>
                         <td>6</td>
                         <td>Cargar departamentos desde un array con consulta preparada.</td>
-<!--                        <td><a href="">Ejecutar</a></td>
-                        <td><a href="">Código</a></td>
+                        <td><a href="./codigoPHP/ejercicio06PDO.php">Ejecutar</a></td>
+                        <td><a href="./mostrarcodigo/muestraEjercicio06PDO.php">Código</a></td><!--
                         <td><a href="">Ejecutar</a></td>
                         <td><a href="">Código</a></td>-->
                     </tr>
