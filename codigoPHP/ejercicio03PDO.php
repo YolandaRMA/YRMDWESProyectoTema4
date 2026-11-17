@@ -69,7 +69,7 @@
         <main>
             <?php
             // Se incluyen las constantes con los datos de conexión.
-            require_once '../config/configDB00_home.php';
+            require_once '../config/configDB00.php';
 
             // Se carga la librería que contiene las funciones de validación.
             require_once '../core/231018libreriaValidacion.php';
